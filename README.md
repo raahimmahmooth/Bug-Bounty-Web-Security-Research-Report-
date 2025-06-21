@@ -65,3 +65,8 @@ This repository is for **educational purposes only**. No unauthorized or illegal
 ## 📬 Contact
 
 If you have any questions about this project, feel free to reach out to me on Linkdin
+
+## 🎥 Demo Video
+
+A video walkthrough demonstrating how I conducted the tests (tools, methodology, and reporting process) **will be provided soon**.
+
